@@ -1,8 +1,8 @@
-FILENAME: `BIPs/4269-W69/test2/BIP-528A.json`
+FILENAME: `BIPs/4269-W69/test3/BIP-528A.json`
 MULTISIG: `multisigs/lm (mainnet:0xc38c5f97B34E175FFd35407fc91a937300E33860)`
-COMMIT: `d6b41be7996bbdad507389e675c9ad047d78d91a`
+COMMIT: `e1baf3cd4db52330c92e65212898528ead64f2dd`
 CHAIN(S): `arbitrum`
-TENDERLY: [`🟥 FAILURE`](https://www.tdly.co/shared/simulation/6f81323c-4be0-44e5-aee9-c99ff605a96a)
+TENDERLY: [`🟥 FAILURE`](https://www.tdly.co/shared/simulation/534ba11e-68b1-4bde-bae4-90b1ab65be21)
 
 | Gauge Validator                  | Result |
 | :--------------------------------| :----: |

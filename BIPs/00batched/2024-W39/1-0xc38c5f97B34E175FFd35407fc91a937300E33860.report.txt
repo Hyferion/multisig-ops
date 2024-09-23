@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W39/1-0xc38c5f97B34E175FFd35407fc91a937300E33860.json`
 MULTISIG: `multisigs/lm (mainnet:0xc38c5f97B34E175FFd35407fc91a937300E33860)`
-COMMIT: `8faa9d854ebd5c8b3c0ed5274aa5378951976ac4`
-CHAIN(S): `optimism, mainnet, arbitrum`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/340c940f-27ae-4b77-8aa4-5615d75249ea)
+COMMIT: `e1baf3cd4db52330c92e65212898528ead64f2dd`
+CHAIN(S): `mainnet, optimism, arbitrum`
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/5ecbbdba-4882-4435-8f72-fb03f34fb991)
 
 | Gauge Validator                  | Result |
 | :--------------------------------| :----: |

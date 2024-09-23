@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W39/1-0x0EFcCBb9E2C09Ea29551879bd9Da32362b32fc89.json`
 MULTISIG: `multisigs/karpatkey (mainnet:0x0EFcCBb9E2C09Ea29551879bd9Da32362b32fc89)`
-COMMIT: `8faa9d854ebd5c8b3c0ed5274aa5378951976ac4`
+COMMIT: `e1baf3cd4db52330c92e65212898528ead64f2dd`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/b7968b50-b098-46ff-8b22-075ab935827e)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/ffe0b9b5-9824-4f51-8014-c404ec549473)
 
 ```
 +-----------+------------------------------------------------------------------+-------+----------------------------------------------------------------------+------------+----------+

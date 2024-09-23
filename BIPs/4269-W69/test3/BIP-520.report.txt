@@ -1,8 +1,8 @@
-FILENAME: `BIPs/4269-W69/test2/BIP-520.json`
+FILENAME: `BIPs/4269-W69/test3/BIP-520.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `d6b41be7996bbdad507389e675c9ad047d78d91a`
+COMMIT: `e1baf3cd4db52330c92e65212898528ead64f2dd`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/048d55d3-153a-45b4-8265-428512390f86)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/e7d8ac0b-e2f6-4586-8073-8377512540fb)
 
 ```
 +----------+-------------------------------------------------+----------------------------------------------------------------------+-----------------------------+---------+----------+
